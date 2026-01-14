@@ -1,6 +1,5 @@
-## Hi there 👋
+## Hello Word!!!, I'm BfanEfan👋
 
-<!--
 **BfanEfan/BfanEfan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+- HELLO WORD, I'M A STUDENT IN **INDONESIA** 🐱‍💻
+- 👾 STUDY, STUDY, STUDY!!!
+- ✨ I'm learning web developer on Youtube Channel.
+![psyduck](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2xvMm1zcnI2ejF3aDNwd2RsYXh4bno3dGJmZG0xYmR3dXYzd2FiaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DZtaQnWsgu0EFR2wt5/giphy.gif)
+-  🏆🏆🏆🏆🏆🏆
