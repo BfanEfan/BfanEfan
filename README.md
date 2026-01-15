@@ -1,7 +1,7 @@
 ## Hello Word!!!, I'm BfanEfan👋
 
 # 🎓 About Me:
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmxnYjhjNzUxN2dqcmZucXlnNGM1M2Z3Nmxwd3R1Yjh3MG9xd3N2aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WWGrmrMykMnja/giphy.gif" width=500 heigth=400/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmxnYjhjNzUxN2dqcmZucXlnNGM1M2Z3Nmxwd3R1Yjh3MG9xd3N2aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WWGrmrMykMnja/giphy.gif" width=100px heigth=100px/>
 📖 I'm a student<br>🎮 I'm junior game developer<br>🖥 I'm beginner front end<br> Support me to Next Level🔥🔥🔥<br>
 
 
